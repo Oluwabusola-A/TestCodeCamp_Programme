@@ -1,0 +1,255 @@
+{
+	"info": {
+		"_postman_id": "77d16a23-1fd6-46fb-b3fa-34b44ac565ac",
+		"name": "Webinar on API Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "USER",
+			"item": [
+				{
+					"name": "POST",
+					"item": [
+						{
+							"name": "Post New user",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"pm.environment.get(\"{{Auto-baseURL}}\");\r",
+											"\r",
+											"pm.test(\"Status code should be 201\", function () {\r",
+											"    pm.response.to.have.status(201);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Successful POST request\", function () {\r",
+											"    pm.expect(pm.response.code).to.be.oneOf([201, 202]);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Status code name has string called OK\", function () {\r",
+											"    pm.response.to.have.status(\"Created\");\r",
+											"});"
+										],
+										"type": "text/javascript"
+									}
+								}
+							],
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"name\": \"morpheus\",\r\n    \"job\": \"leader\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{Auto-baseURL}}api/users",
+									"host": [
+										"{{Auto-baseURL}}api"
+									],
+									"path": [
+										"users"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Post User Login",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"pm.environment.get(\"{{Auto-baseURL}}\");\r",
+											"\r",
+											"pm.test(\"Status code should be 200\", function () {\r",
+											"    pm.response.to.have.status(200);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Successful POST request\", function () {\r",
+											"    pm.expect(pm.response.code).to.be.oneOf([200, 201, 202]);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Status code name has string called OK\", function () {\r",
+											"    pm.response.to.have.status(\"OK\");\r",
+											"});\r",
+											"\r",
+											""
+										],
+										"type": "text/javascript"
+									}
+								}
+							],
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"email\": \"eve.holt@reqres.in\",\r\n    \"password\": \"cityslicka\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{Auto-baseURL}}api/login",
+									"host": [
+										"{{Auto-baseURL}}api"
+									],
+									"path": [
+										"login"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "DELETE",
+					"item": [
+						{
+							"name": "Delete user",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"pm.environment.get(\"{{Auto-baseURL}}\");\r",
+											"pm.test(\"Status code should be 204\", function () {\r",
+											"    pm.response.to.have.status(204);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Successful DELETE request\", function () {\r",
+											"    pm.expect(pm.response.code).to.be.oneOf([204]);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Status code name has string No Content\", function () {\r",
+											"    pm.response.to.have.status(\"No Content\");\r",
+											"});"
+										],
+										"type": "text/javascript"
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "{{Auto-baseURL}}api/user/2",
+									"host": [
+										"{{Auto-baseURL}}api"
+									],
+									"path": [
+										"user",
+										"2"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Get list user",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"pm.environment.get(\"{{Auto-baseURL}}\");\r",
+											"pm.test(\"Status code should be 200\", function () {\r",
+											"    pm.response.to.have.status(200);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Successful GET request\", function () {\r",
+											"    pm.expect(pm.response.code).to.be.oneOf([200, 202]);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Status code name has string called OK \", function () {\r",
+											"    pm.response.to.have.status(\"OK\");\r",
+											"});"
+										],
+										"type": "text/javascript"
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{Auto-baseURL}}api/user?page=2",
+									"host": [
+										"{{Auto-baseURL}}api"
+									],
+									"path": [
+										"user"
+									],
+									"query": [
+										{
+											"key": "page",
+											"value": "2"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get single user",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"pm.environment.get(\"{{Auto-baseURL}}\");\r",
+											"\r",
+											"pm.test(\"Status code should be 200\", function () {\r",
+											"    pm.response.to.have.status(200);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Successful GET request\", function () {\r",
+											"    pm.expect(pm.response.code).to.be.oneOf([200, 202]);\r",
+											"});\r",
+											"\r",
+											"pm.test(\"Status code name has string called OK\", function () {\r",
+											"    pm.response.to.have.status(\"OK\");\r",
+											"});"
+										],
+										"type": "text/javascript"
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{Auto-baseURL}}api/user/2",
+									"host": [
+										"{{Auto-baseURL}}api"
+									],
+									"path": [
+										"user",
+										"2"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		}
+	]
+}
