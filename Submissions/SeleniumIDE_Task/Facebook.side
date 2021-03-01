@@ -1,0 +1,131 @@
+{
+  "id": "a8788557-5400-4415-ac44-a87edf3e63e7",
+  "version": "2.0",
+  "name": "Facebook",
+  "url": "https://www.facebook.com",
+  "tests": [{
+    "id": "eb63f664-7df1-4d5b-8cc0-b56bd9718d45",
+    "name": "Valid_Login&logout",
+    "commands": [{
+      "id": "909d9bf7-fd08-465d-831c-b11b60cc92d8",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2e6a08a3-b3e4-451c-837b-a5c685aae7ed",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "725x671",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "17ddd49c-6377-41e3-964e-115cd1cf09d3",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='u_0_e_9G']/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "Email Address or phone number"
+    }, {
+      "id": "a8f936b7-4b4a-421f-ba68-5ffa63201d11",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='u_0_e_9G']/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "aiyegbusioluwabusola@yahoo.com"
+    }, {
+      "id": "c8592b8f-fc37-4029-8600-c45304663377",
+      "comment": "",
+      "command": "click",
+      "target": "id=pass",
+      "targets": [
+        ["id=pass", "id"],
+        ["name=pass", "name"],
+        ["css=#pass", "css:finder"],
+        ["xpath=//input[@id='pass']", "xpath:attributes"],
+        ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "Password"
+    }, {
+      "id": "9b55e857-c128-4151-86a3-0bd76721fcd3",
+      "comment": "",
+      "command": "type",
+      "target": "id=pass",
+      "targets": [
+        ["id=pass", "id"],
+        ["name=pass", "name"],
+        ["css=#pass", "css:finder"],
+        ["xpath=//input[@id='pass']", "xpath:attributes"],
+        ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "Busola@3"
+    }, {
+      "id": "fb9484e0-4801-4dc8-b60f-0a503eab3a20",
+      "comment": "",
+      "command": "clickAt",
+      "target": "css=.sp_9tHeeoQvoGp",
+      "targets": [],
+      "value": "Log In"
+    }, {
+      "id": "4893233a-c4ac-4893-b544-e21984a9bdf5",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.b3onmgus:nth-child(4) .mm8kr34x",
+      "targets": [
+        ["css=.b3onmgus:nth-child(4) .mm8kr34x", "css:finder"],
+        ["xpath=//div[@id='mount_0_0_yI']/div/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div[4]/div/div/div/a/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div/a/div/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fe3e1a9e-b588-4229-af13-cd490303288e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sp_9tHeeoQvoGp",
+      "targets": [
+        ["css=.sp_9tHeeoQvoGp", "css:finder"],
+        ["xpath=//div[@id='mount_0_0_yI']/div/div/div/div[2]/div[4]/div/span/div/div/i", "xpath:idRelative"],
+        ["xpath=//span/div/div/i", "xpath:position"]
+      ],
+      "value": "Account"
+    }, {
+      "id": "1c4c22d2-6cbd-49d3-b5bd-bb5a6dc7ce83",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sx_a1338a",
+      "targets": [
+        ["css=.sx_a1338a", "css:finder"],
+        ["xpath=//div[@id='mount_0_0_yI']/div/div/div/div[2]/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div[4]/div/div/div/div/i", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div/div/i", "xpath:position"]
+      ],
+      "value": "Log Out"
+    }]
+  }],
+  "suites": [{
+    "id": "94b153e6-8abf-4ae1-ab05-ad5b9664afa0",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["eb63f664-7df1-4d5b-8cc0-b56bd9718d45"]
+  }],
+  "urls": ["https://www.facebook.com/"],
+  "plugins": []
+}
