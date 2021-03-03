@@ -7,21 +7,21 @@
     "id": "f49a9aed-398e-43d0-8de7-016de194e24e",
     "name": "Valid signup",
     "commands": [{
-      "id": "884be813-f394-4a51-8fab-21d45cf5ab01",
+      "id": "27f3c28b-6c50-4b15-b097-aedb6ef2eac4",
       "comment": "",
       "command": "open",
       "target": "/",
       "targets": [],
       "value": ""
     }, {
-      "id": "23d3778e-2c2a-43b3-a120-cadef65274c1",
+      "id": "f901027a-b041-420e-b400-7e730f6ba5cd",
       "comment": "",
       "command": "setWindowSize",
       "target": "1382x744",
       "targets": [],
       "value": ""
     }, {
-      "id": "2a87d6a6-e7de-4a90-9498-438a855b3a03",
+      "id": "91a9a544-a55a-4b06-8ff7-e3f41840612d",
       "comment": "",
       "command": "click",
       "target": "css=.landing-button",
@@ -33,7 +33,7 @@
       ],
       "value": ""
     }, {
-      "id": "d49a9aa8-9da6-4e81-b3cb-0d4770a2e48e",
+      "id": "8b7375c6-c955-497f-b501-5743978761e7",
       "comment": "",
       "command": "click",
       "target": "linkText=Create Account",
@@ -48,7 +48,7 @@
       ],
       "value": ""
     }, {
-      "id": "a39e521c-f1a5-48cc-b7ba-1a66548eee01",
+      "id": "74b4bb08-58c5-40e0-a9d6-e32ff34d6d8d",
       "comment": "",
       "command": "click",
       "target": "id=username",
@@ -62,7 +62,7 @@
       ],
       "value": ""
     }, {
-      "id": "c606da62-8e3f-47e9-b958-d5f4e80da890",
+      "id": "0f9d3043-595e-49f9-88d7-ec151d4d5946",
       "comment": "",
       "command": "type",
       "target": "id=username",
@@ -74,9 +74,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Oluwabusol_A"
+      "value": "Busola_A"
     }, {
-      "id": "b2c1ad76-4417-460a-a310-d3cf6d0d81f8",
+      "id": "75b6851c-3929-436f-9cde-006cd842c642",
       "comment": "",
       "command": "click",
       "target": "id=email",
@@ -90,7 +90,7 @@
       ],
       "value": ""
     }, {
-      "id": "562d7291-80d1-419c-8577-1681cd935f13",
+      "id": "552951b9-b531-470a-a5cb-d8edc80ab580",
       "comment": "",
       "command": "type",
       "target": "id=email",
@@ -102,9 +102,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[3]/div/input", "xpath:idRelative"],
         ["xpath=//div[3]/div/input", "xpath:position"]
       ],
-      "value": "aiyegbusioluwabusola@yahoo.com"
+      "value": "aiyegbusibusola@gmail.com"
     }, {
-      "id": "59cc1ca0-a2c7-4237-a14e-4f3d92d52b9c",
+      "id": "a79d5d41-727d-4def-a44d-7e4db07e157c",
       "comment": "",
       "command": "click",
       "target": "id=password",
@@ -118,7 +118,7 @@
       ],
       "value": ""
     }, {
-      "id": "87239e2c-376d-4c67-ae3c-fb0af3bc7999",
+      "id": "95853d75-25fb-45c5-8340-796d29540d6d",
       "comment": "",
       "command": "type",
       "target": "id=password",
@@ -130,9 +130,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[4]/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/div/input", "xpath:position"]
       ],
-      "value": "Busola@3"
+      "value": "BusolaA1"
     }, {
-      "id": "e502f5b2-1b29-4dee-a998-d1444e495a1b",
+      "id": "f8fa4df1-a659-4d98-8872-01f70e389aa2",
       "comment": "",
       "command": "click",
       "target": "id=confirmPassword",
@@ -146,7 +146,7 @@
       ],
       "value": ""
     }, {
-      "id": "bd8ef96e-a8eb-486f-bea1-f31c44c8dd36",
+      "id": "9eea5d35-5ce1-4674-af99-731f311a744a",
       "comment": "",
       "command": "type",
       "target": "id=confirmPassword",
@@ -158,9 +158,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[5]/div/input", "xpath:idRelative"],
         ["xpath=//div[5]/div/input", "xpath:position"]
       ],
-      "value": "Busola@3"
+      "value": "BusolaA1"
     }, {
-      "id": "4871d036-974e-4a8c-b713-f0b6412dabde",
+      "id": "5027b4bd-ac0f-46ae-8ad2-9535f0da3d73",
       "comment": "",
       "command": "click",
       "target": "css=.btn",
@@ -172,27 +172,11 @@
       ],
       "value": ""
     }, {
-      "id": "b53b1dc9-b752-431d-8bec-278098a2fa2a",
+      "id": "c47e5a64-3460-4688-b26d-b31dd7dbb9f0",
       "comment": "",
-      "command": "click",
-      "target": "css=.form",
-      "targets": [
-        ["css=.form", "css:finder"],
-        ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form", "xpath:idRelative"],
-        ["xpath=//form", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "bd410b23-9f88-482f-91b9-f75140880c8b",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn",
-      "targets": [
-        ["css=.btn", "css:finder"],
-        ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/button", "xpath:idRelative"],
-        ["xpath=//form/button", "xpath:position"],
-        ["xpath=//button[contains(.,'Create Account')]", "xpath:innerText"]
-      ],
+      "command": "close",
+      "target": "",
+      "targets": [],
       "value": ""
     }]
   }],
