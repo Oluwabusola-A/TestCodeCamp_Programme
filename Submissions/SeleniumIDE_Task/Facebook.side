@@ -1,27 +1,27 @@
 {
-  "id": "8a86e7f7-3d2b-461d-bc3f-f4fe719ffb88",
+  "id": "78df12e3-3d25-4b88-be34-3de1f264acb7",
   "version": "2.0",
   "name": "facebook",
-  "url": "https://www.facebook.com",
+  "url": "https://web.facebook.com",
   "tests": [{
-    "id": "53d61889-5282-461c-a81b-ef4fa7d3153d",
+    "id": "09ed987e-0466-4a13-bce9-9e428393c5ec",
     "name": "Valid_Login&logout",
     "commands": [{
-      "id": "c0c97aa3-59d4-4f6a-8d3a-0489915b9dad",
+      "id": "990480a8-1884-42a6-a304-827bb514c8ff",
       "comment": "",
       "command": "open",
-      "target": "/",
+      "target": "/?_rdc=1&_rdr",
       "targets": [],
       "value": ""
     }, {
-      "id": "be1dfcb7-b08e-433b-bed9-cb16a6ec0447",
+      "id": "628779b7-1280-4cc2-aca3-7164b0af1b4a",
       "comment": "",
       "command": "setWindowSize",
       "target": "1382x744",
       "targets": [],
       "value": ""
     }, {
-      "id": "632397e4-567a-4df0-bc9f-2e4ad9a2d459",
+      "id": "66ce8a0e-4ddc-418b-88da-a4bf526d5383",
       "comment": "",
       "command": "click",
       "target": "id=email",
@@ -30,12 +30,12 @@
         ["name=email", "name"],
         ["css=#email", "css:finder"],
         ["xpath=//input[@id='email']", "xpath:attributes"],
-        ["xpath=//form[@id='u_0_e_8Y']/div/div/input", "xpath:idRelative"],
+        ["xpath=//form[@id='u_0_e_MD']/div/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
       "value": ""
     }, {
-      "id": "ab49ea7b-5785-4594-a6e3-b25cf36a332e",
+      "id": "8ce0fce1-2f9b-4836-b586-835e358b7633",
       "comment": "",
       "command": "type",
       "target": "id=email",
@@ -44,25 +44,12 @@
         ["name=email", "name"],
         ["css=#email", "css:finder"],
         ["xpath=//input[@id='email']", "xpath:attributes"],
-        ["xpath=//form[@id='u_0_e_8Y']/div/div/input", "xpath:idRelative"],
+        ["xpath=//form[@id='u_0_e_MD']/div/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
       "value": "aiyegbusioluwabusola@yahoo.com"
     }, {
-      "id": "e0ad1d76-7227-4d7f-86a5-f2b848815c30",
-      "comment": "",
-      "command": "click",
-      "target": "id=passContainer",
-      "targets": [
-        ["id=passContainer", "id"],
-        ["css=#passContainer", "css:finder"],
-        ["xpath=//div[@id='passContainer']", "xpath:attributes"],
-        ["xpath=//form[@id='u_0_e_8Y']/div/div[2]/div", "xpath:idRelative"],
-        ["xpath=//form/div/div[2]/div", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "b22d777c-c0fc-4052-ba89-1f1c9b327bc4",
+      "id": "abe97129-3f47-4cb7-ba65-4c7731dd9157",
       "comment": "",
       "command": "click",
       "target": "id=pass",
@@ -76,7 +63,7 @@
       ],
       "value": ""
     }, {
-      "id": "8c610e30-7e20-4f44-b6a8-396073b9e8cf",
+      "id": "84992882-e1ae-48e0-88ad-bb52ffe902dd",
       "comment": "",
       "command": "type",
       "target": "id=pass",
@@ -90,61 +77,45 @@
       ],
       "value": "Busola@3"
     }, {
-      "id": "5298bcb4-d261-4c1e-a72f-9ca0bd658d70",
+      "id": "346b1b34-3f7a-4f3a-a78b-fac6bbc83710",
       "comment": "",
       "command": "click",
-      "target": "id=u_0_h_aL",
+      "target": "id=u_0_h_uA",
       "targets": [
-        ["id=u_0_h_aL", "id"],
+        ["id=u_0_h_uA", "id"],
         ["name=login", "name"],
-        ["css=#u_0_h_aL", "css:finder"],
-        ["xpath=//button[@id='u_0_h_aL']", "xpath:attributes"],
-        ["xpath=//form[@id='u_0_e_8Y']/div[2]/button", "xpath:idRelative"],
+        ["css=#u_0_h_uA", "css:finder"],
+        ["xpath=//button[@id='u_0_h_uA']", "xpath:attributes"],
+        ["xpath=//form[@id='u_0_e_MD']/div[2]/button", "xpath:idRelative"],
         ["xpath=//button", "xpath:position"],
         ["xpath=//button[contains(.,'Log In')]", "xpath:innerText"]
       ],
       "value": ""
     }, {
-      "id": "0abce99f-a541-4eda-9ccd-997fe7856025",
+      "id": "d08d2edc-7648-4c01-a218-78141033c411",
       "comment": "",
       "command": "click",
       "target": "css=.sp_9tHeeoQvoGp",
       "targets": [
         ["css=.sp_9tHeeoQvoGp", "css:finder"],
-        ["xpath=//div[@id='mount_0_0_ll']/div/div/div/div[2]/div[4]/div/span/div/div/i", "xpath:idRelative"],
+        ["xpath=//div[@id='mount_0_0_ia']/div/div/div/div[2]/div[4]/div/span/div/div/i", "xpath:idRelative"],
         ["xpath=//span/div/div/i", "xpath:position"]
       ],
       "value": ""
     }, {
-      "id": "217a4d79-631a-4e8b-ad43-cd13a1a67512",
+      "id": "73e5fd3a-9775-444e-a596-07d59e4c7419",
       "comment": "",
       "command": "click",
-      "target": "css=.b20td4e0 > div:nth-child(4) > .oajrlxb2 .gs1a9yip",
+      "target": "css=div:nth-child(4) > .oajrlxb2 .d2edcug0",
       "targets": [
-        ["css=.b20td4e0 > div:nth-child(4) > .oajrlxb2 .gs1a9yip", "css:finder"],
-        ["xpath=//div[@id='mount_0_0_ll']/div/div/div/div[2]/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div[4]/div/div/div[2]/div", "xpath:idRelative"],
-        ["xpath=//div[4]/div/div/div[2]/div", "xpath:position"]
+        ["css=div:nth-child(4) > .oajrlxb2 .d2edcug0", "css:finder"],
+        ["xpath=//div[@id='mount_0_0_ia']/div/div/div/div[2]/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div[4]/div/div/div[2]/div/div/div/div/span", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div[2]/div/div/div/div/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Log Out')]", "xpath:innerText"]
       ],
       "value": ""
     }, {
-      "id": "e23f07fc-f34e-4ec9-a0dc-1b49827e87f7",
-      "comment": "",
-      "command": "click",
-      "target": "id=u_0_2_sr",
-      "targets": [
-        ["id=u_0_2_sr", "id"],
-        ["linkText=Create New Account", "linkText"],
-        ["css=#u_0_2_sr", "css:finder"],
-        ["xpath=//a[contains(text(),'Create New Account')]", "xpath:link"],
-        ["xpath=//a[@id='u_0_2_sr']", "xpath:attributes"],
-        ["xpath=//form[@id='u_0_e_np']/div[5]/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '#')])[5]", "xpath:href"],
-        ["xpath=//div[5]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Create New Account')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "6edea99d-4ced-4622-9198-ad51fe3b66b5",
+      "id": "0597422b-e143-4487-80ae-6d3b7a12de90",
       "comment": "",
       "command": "close",
       "target": "",
@@ -153,13 +124,13 @@
     }]
   }],
   "suites": [{
-    "id": "2db331c6-2db1-4952-9ea8-33ff75f68e73",
+    "id": "eb4c4bd6-5c15-4d92-a0ed-1434e0cc11cb",
     "name": "Default Suite",
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": ["53d61889-5282-461c-a81b-ef4fa7d3153d"]
+    "tests": ["09ed987e-0466-4a13-bce9-9e428393c5ec"]
   }],
-  "urls": ["https://www.facebook.com/"],
+  "urls": ["https://web.facebook.com/"],
   "plugins": []
 }
