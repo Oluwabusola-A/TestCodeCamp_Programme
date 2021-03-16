@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4730ebeb-0b32-42c9-92e8-cea842c0fa6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/allure-results/060f2567-9b24-4d66-b216-71edb14244fd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/allure-results/765e0689-daa1-4466-8bd8-af87c25eadfe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/allure-results/a7b283ef-b2cc-4209-8c42-42b9d92c276e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/allure-results/a8919ffd-4200-480e-b0ee-99b4b7f5aa0f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/orangehrm_POM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/src/main/java/pageObjects/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/src/test/java/Login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/src/test/java/Setup/SetupTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/target/classes/pageObjects/DashboardPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/target/classes/pageObjects/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/target/test-classes/login/LoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/target/test-classes/setup/SetupTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/055206e9-4509-4dfb-9229-8efb476e7beb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1a8e9bef-682d-45a0-8dc1-d0a6634f9ad4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1ceed999-634b-4006-b3f3-76f03875d2f3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/210a4664-1868-4145-a337-e19194f8d7c2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/351c08f9-40f5-4cb0-b4c4-5a7ff69dd0bf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3aea8cd1-888b-45dc-b041-d34272455676-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/49474479-786e-4374-8c5e-7754901b72bf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/54e82f17-cb97-42aa-8440-c852fc2da048-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/be10c42d-012d-4f68-b87d-3e87e52b6111-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e2772827-db19-42f3-a15a-3747bcbf709d-container.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Deydam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -5,38 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="031cb45c-2526-48f2-b884-3d43078fd17f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/060f2567-9b24-4d66-b216-71edb14244fd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/765e0689-daa1-4466-8bd8-af87c25eadfe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a7b283ef-b2cc-4209-8c42-42b9d92c276e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a8919ffd-4200-480e-b0ee-99b4b7f5aa0f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orangehrm_POM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Setup/SetupTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pageObjects/DashboardPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pageObjects/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/setup/SetupTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/055206e9-4509-4dfb-9229-8efb476e7beb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/1a8e9bef-682d-45a0-8dc1-d0a6634f9ad4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/1ceed999-634b-4006-b3f3-76f03875d2f3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/210a4664-1868-4145-a337-e19194f8d7c2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/351c08f9-40f5-4cb0-b4c4-5a7ff69dd0bf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/3aea8cd1-888b-45dc-b041-d34272455676-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/49474479-786e-4374-8c5e-7754901b72bf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/54e82f17-cb97-42aa-8440-c852fc2da048-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/be10c42d-012d-4f68-b87d-3e87e52b6111-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/e2772827-db19-42f3-a15a-3747bcbf709d-container.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/060a2894-9fc2-4ae0-b249-b3893c38f78d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e681643-f940-4a50-b6e7-43594c23d9aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4416117f-d78f-4bb5-b9af-94372c381c7b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f5d5a6b1-8eb6-4118-becb-9f0b55b5c814-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/060f2567-9b24-4d66-b216-71edb14244fd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/765e0689-daa1-4466-8bd8-af87c25eadfe-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/5a808215-cd15-4a71-aea4-7d9bf6a4c852-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/847ba198-6707-49ec-9824-9beccd9e02f8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9d189635-6ff6-4a61-908f-f2adb1608133-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a7b283ef-b2cc-4209-8c42-42b9d92c276e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a8919ffd-4200-480e-b0ee-99b4b7f5aa0f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ce5addd4-5d22-48bf-bdb1-1b1ac6b57d9e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f2eb4391-d187-40fc-9564-d868204e5490-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

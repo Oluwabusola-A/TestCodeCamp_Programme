@@ -19,6 +19,9 @@ public class LoginTests extends SetupTests {
         DashboardPage dashboardPage = loginPage.clickLoginBtn();
         dashboardPage.clickWelcomeAdmin();
         loginPage = dashboardPage.clickLogout();
+        String pageUrl = "https://opensource-demo.oragehrmlive.com/index.php/dashboard";
+        System.out.println ("PASSED - The page url is " + pageUrl);
+
     }
 
     @Test
