@@ -5,115 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ee6f8fa-f5e4-4415-9fed-84b35a5b0041" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/01b1acc8-933d-4450-9bfd-c182d1f95062-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2ecf2a80-3a3d-419f-a417-4e8ddc97fd0b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3f3c0e7c-d8e1-4462-8827-1fb836568fe8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bab1cd5e-51d3-4168-bb75-42e47743aeaf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f0f619e6-32b9-4ee8-b2ed-1c0e2ae0e745-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/orangehrm_POM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/orangehrm_POM/src/test/java/Setup/SetupTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/04c3bc92-14b1-4822-a603-95aeaf2b756a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0e7c2dd1-eef7-4f7b-8ba7-ba1f5d2dbfad-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0f2a3c16-0036-4a7f-af72-a974e28db8ff-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/124aeb1c-c702-4055-b5e9-98afd97b2656-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/18547498-b643-439f-94ea-d873f5f245a4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/25236b62-a643-43a1-bc4b-863450d33949-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2ae673d0-da5a-412e-ad86-6b1b640fc001-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/36f62569-ff27-4dd6-aa84-c81bfcca1070-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/38125f09-8a5e-4d4e-b4e0-b61dc05c5b4a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/428a7e0d-b09f-4673-ac2f-27d259aff7c5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/469a7abd-0f5d-4cd0-a04d-d7803040917e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/656fcc23-fda3-4bba-b558-1b125a9ad164-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6d8ee2dd-675f-43c6-a30e-a3cf9010ed10-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8478e4c2-3500-44a4-9e0d-dbb8b94cf408-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b0c0f56e-e91c-49a9-9839-ec7cbe5d6206-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c98be94e-c056-4e6e-80b4-ac1e5306d01b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ce0fa625-09d4-4e06-9bea-1b6bab6f6de8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d7dc3ad4-3923-4fa8-9c08-3b7bf47ca56d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dba6f77b-1b37-45b3-a775-11ffb286e22e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e22a765e-7d01-4b1d-8bfc-5726ed67b8a1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e4b33e7e-8e53-4826-9e6e-af2a7abcebbc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e9808c09-6a9b-44cd-8601-5af750dab3d1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ec80ba13-8a96-4be1-8bc0-f6dfbba2e5db-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f0cce3b0-166c-4ee1-b41b-b3c9cd1fedca-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f53c6770-5553-448b-a2dc-082c3610f917-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/05f1a749-0055-4614-aa9d-a035bf87cfaf-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/08a12d78-4d2e-475a-9081-feddbd2d3436-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/08b37c4c-c77f-45fc-be0c-753d780e6d69-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/0e63004f-9982-4284-a1e2-0224f8605f06-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/0f3744ab-d92e-4536-a09e-ad48ab67ea1a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/1359ee7e-b655-4fbe-832c-064ae6e01851-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/161c1b43-ea64-4c8c-9549-1d9cb9cf597b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/1d621479-c7ca-4a62-ab88-4bc525a7fc2c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/2204de81-7382-4cab-87cf-d591a4bd8ec4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/2428c5ce-00b3-487f-8e60-ce18788308fc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/253e2e5e-4cf0-4cdd-a03a-f4c9d5be817b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/2d84e441-535e-4539-812d-142d467a8b64-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/310b14f1-9ab0-49ce-9235-ea4b46b1720e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/356b7ed6-eddf-4534-9ea8-db83ad5750f1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/3c4e7ff5-32d0-46ff-83d5-884e5352ba30-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/3d0d6eca-acd3-4ca1-9c53-70c84e42d187-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/4ee78f35-2062-4b29-9965-76d3226b6cb8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/55985f37-a831-4012-be44-f0532c4b98b3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/566bf4f8-e374-4190-8bc6-d3b247ec9e18-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/5a4bd38d-d24b-40b6-94c4-78c9d4e03b59-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/5b0be48f-5b5a-4c70-bd3c-b6e1eef6c3d3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/5deb6644-61b4-439c-a81f-d1a344f2d8c4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/5ea6e859-a5bf-4833-bfa2-a7aeee5b744a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/5f6df783-26b5-425c-b538-82ff8009eec8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/5f81a35b-1a90-4a20-bd30-d09906e7bbbb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/630b4e38-da21-4427-b91e-77b5924f1dc9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/66944e8a-04d5-47e5-bb0e-97d1c0ce327e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/66f64e6b-c5c1-41dd-ba9b-0622e7021e38-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/67006c4d-e55b-41e8-b4cc-e6eb1e5df571-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/68dcba7b-1412-4747-9894-6bce6b79ca6b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/6d4ff01d-660d-4ad2-98b5-92ae4cde4bf1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/6e04f90d-c4e6-4b35-99cb-e8c1cebaa048-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/734085a7-4bed-40ae-9587-6f9adf4ebdd4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/753867d5-b05b-43ee-bea5-6b141ffbdaa9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/76acec20-5fe2-4129-bebc-494c6d02fabf-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/76cb52a5-21c5-4a6e-ba36-fd4eb6d0e6de-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/857d5188-858f-45bb-99ac-8e57a1ef02b7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/8ca2c7bc-ce8d-4c51-b214-9e1c1dabc3d7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/8ddd436d-b9b2-4379-912a-86b759d80398-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/8e2a2fac-ac91-44b9-a400-6347de54c37e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/959e711d-e9c6-4f66-91d8-6f691f5e4219-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/99267ca7-dd0a-46a4-8c3b-4647d936c424-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/9bacb955-32b2-43a1-90d8-9b07b7fc9c05-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/a7a6db94-72d1-4ed7-b013-16227b841a4d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/a7ada5ff-5177-4451-99fd-5b1d33192e98-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/a9ae61b3-fede-4b2b-8440-4eaf7564d57a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/aa0f4a48-a0f0-46bb-bcc2-ff1add19bdcd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/aa6ac016-3aef-4903-b96b-48db73426246-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/aaa605a3-9430-4544-9cfa-493f1e5aa7b7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/abe8514a-fb67-46a3-82d0-c84f0210c07d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/af85e3d5-efd6-415c-8622-198041b51432-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/b49c1070-a8a5-4e37-9d10-bb9cea6841c4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/b881516a-9351-4c19-bd8a-1758b84e59f1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/b969f546-6b60-4f6b-a8d3-9f799c74afd4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/b98adfaf-54c4-401b-b5e4-e48a9df9bfcc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/c17ba1ba-1786-4984-a546-b8a40897c426-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/c9ccd023-91a4-4145-b106-026033887c89-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/ca74f4f4-e2d3-4438-8055-b0f7906c55fc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/cdf0e1ea-c4be-4394-bfa4-4a1dde1d205e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/d4247c0a-58f2-44ba-a4fd-7aa0f01d34ec-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/d5478aa5-b93d-4ffa-ae81-037efa65f147-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/d7e2e1b8-d0f0-4dcf-9ac9-d25d749070bf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/da68740f-22e7-4200-9c75-c2e7fe91ad69-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/dae0cd57-142d-4b73-b724-2e2dc4e1a39d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/dd7498dd-fd63-46b9-8780-bb99868d4afb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/e0675666-3fe4-4510-af58-8d9b7d70354f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/e608a55c-1539-4a1c-a0e7-38192936bff3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/e92bb0ff-29ee-44de-beb8-22f3ca050ec7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/eaf00ba3-4857-4275-8d3b-37572a654ccc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/eb4df2df-65dd-486e-90c9-94e010ba6cd1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/f2f3647e-1004-41c2-8643-6bce9136b8a3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/f3a150e7-4242-49b1-9da9-23c4dc0caea7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/f630b514-6fa1-4ea7-b94e-8bfa8e47631e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/f72da4fb-89bc-4fed-ac87-fbeaafcf1575-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/allure-results/f989b17e-9572-488b-9a5e-4820974301b1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facebook/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Facebook" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
