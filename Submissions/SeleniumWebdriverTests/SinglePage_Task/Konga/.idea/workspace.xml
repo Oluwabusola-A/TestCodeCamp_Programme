@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4913a69d-d3a7-493e-a22e-469267429428" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/11fcbf7f-aab6-401e-bb4e-5ff8c50a9cdb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/5162c42c-e217-4663-94e5-12367e4187fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/93f967ab-abad-42c5-b203-c8b9a3b9b42c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/b5d7d6ca-6681-4bab-a9f8-1e76ab4bce67-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/bea12b39-3032-438b-8ff4-da4de96bda36-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/dbf626fc-c890-45fc-bd4d-5e2b3d79d693-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Konga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/11411ca6-f4d0-4a56-a56f-943dfdb5591c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1309c58c-dd3a-4e49-b36b-5b0e5f88c84e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2072a964-552f-4a6f-a648-1d83070f4840-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2bdb1385-ac8e-4397-9d25-3fb5a0d19dca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/372c4c4a-da4f-4579-8d01-c22b56e3fde2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46f685f1-6cbb-460a-a204-f54de2f3f045-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4a52f343-ef21-4525-990a-37a4130d68da-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/518a3af8-3635-461d-8786-60ffb7ad0b1d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/51e3d0cf-8515-4633-ad65-4198b9ba3361-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58c40e5d-443b-4304-a947-5a979bd1162e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/607fd0db-f227-47ef-b650-009657630235-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64f7f251-9dad-48ec-ab16-9a74e8679e63-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6623dd2f-22be-45f9-a3a3-63cf307850d0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67a64c61-5193-433e-ad9f-99e39b0b724b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/729165a0-a176-4102-96c7-aef5dd2b90ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/73156189-8aa4-4501-acac-76c4ffb33ae1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d75f9bd-033f-44f8-9e88-44bcaad3ace5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83d1169d-ddca-447b-a106-7f80ffbca2d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8679709c-a47f-4c50-91f4-1290d5fbc867-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91f6b49e-2946-4296-8bb8-96c33b82d214-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9642b062-81a8-4834-9ac1-94d1237439a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9b4aeff2-23bd-4f9d-a4d1-54f1271f1b32-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a5b06782-4289-4c01-9d00-9f6262ba8fef-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad012372-bffb-4320-9dc5-b0ca75ab2fb9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7b01ca9-8371-409f-84a6-d680e692feb4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b88b0e58-d7df-4ce1-be28-44336bea2f64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf13094f-7bb5-4d6a-b849-29c9d651a21f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d4e350d1-1e6c-43a2-b73b-f434efd1b237-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db32c8b8-b75f-4d3e-8346-32fa9dd0bdb2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0582866-bd22-46c5-aed7-629c48f3b488-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2f1da60-7287-4469-afeb-804e51aefe8a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fde8e454-0655-48ec-af66-771a2c71f6f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Konga/KongaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Konga/KongaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/Konga.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/allure-results/31f4c502-70c2-486d-abbc-ff99a89b3d69-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/allure-results/87fbb5d3-ddef-408e-80ca-4192e7d8edda-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/src/test/java/Konga/KongaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/target/test-classes/Konga/KongaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/target/test-classes/User/SignInTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/target/test-classes/User/SignInTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1qKfPv2aBUHio3d95XQF7GnECqf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aiyeg\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\SinglePage_Task\Konga\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/aiyeg/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Task/Konga/testng.xml">
+    <configuration name="C:/Users/aiyeg/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Task/Konga/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Konga" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Konga" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Konga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Konga" />
+      <option name="MAIN_CLASS_NAME" value="Konga.KongaTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/aiyeg/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Task/Konga/testng.xml" />
+      <item itemvalue="TestNG.KongaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/aiyeg/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Task/Konga/testng.xml" />
+        <item itemvalue="TestNG.KongaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4913a69d-d3a7-493e-a22e-469267429428" name="Default Changelist" comment="" />
+      <created>1616833183257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616833183257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
