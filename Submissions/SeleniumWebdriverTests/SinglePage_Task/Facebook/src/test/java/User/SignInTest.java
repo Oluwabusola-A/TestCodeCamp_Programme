@@ -3,6 +3,7 @@ package User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -60,6 +61,19 @@ public class SignInTest {
         Thread.sleep(5000);
     }
 
+    @Test
+    public void testNegativeLogin() throws InterruptedException{
+        //Click on the email field and input a valid email
+        driver.findElement(By.id("email")).sendKeys("00092287401");
+        //Click on the password field and input a valid password
+        driver.findElement(By.id("pass")).sendKeys("08092287401");
+        //click on the login button
+        driver.findElement(By.xpath("/html/body/div[1]/div[2]/div[1]/div/div/div/div[2]/div/div[1]/form/div[2]/button")).click();
+        Thread.sleep(5000);
+        String expectedErrorMessage = "The email address or phone number that you've entered isn't connected to an account. Find Your account";
+        String actualErrorMessage = driver.findElement(By.id("//*[@id=\"Loginform\"]/div[1]/div[2]")).getText();
+        Assert.assertEquals(actualErrorMessage,expectedErrorMessage);
+    }
     @AfterTest
     public void tearDown(){
         driver.quit();

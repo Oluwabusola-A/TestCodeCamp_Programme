@@ -6,13 +6,14 @@ import org.testng.annotations.Test;
 
 import java.util.Random;
 
+
 public class KongaTest extends SetupTest {
     @Test
     public void testLoginPage()
     {
         int addToCartButtonID = 1, numberOfItems = 1;
         String userId = "useremail", password = "userpassword", item = "Apple MacBooks",
-                cardNumber = "3456 7876 0988 2654", date = "02/23", cvv = "071";
+                cardNumber = "0005 7876 0988 0004", date = "02/30", cvv = "071";
         //Instantiate random class
         Random random = new Random();
 
